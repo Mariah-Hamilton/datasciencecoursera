@@ -3,3 +3,4 @@
 * beer 
 * onion
 * cumin
+* star anise
